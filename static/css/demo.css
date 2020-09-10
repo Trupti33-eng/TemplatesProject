@@ -1,0 +1,9 @@
+body{
+  background: url(https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=853&q=80);
+}
+.container .jumbotron{
+  background: black;
+  opacity: 0.9;
+  color: white;
+  margin: 150px 100px 100px 100px;
+}
